@@ -1,0 +1,29 @@
+<div class="mb-4">
+  <h2 class="text-success">
+    Reset password
+  </h2>
+<hr>
+</div>
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <div class="mb-3">
+    <input class="form-control bg-body-secondary" placeholder="Email" formControlName="email">
+    <div class="error-feedback" *ngIf="hasDisplayableError('email')">
+      <div *ngIf="form.controls.email.hasError('required')">
+        Please enter your email address.
+      </div>
+      <div *ngIf="form.controls.email.hasError('email')">
+        Please enter a valid email address.
+      </div>
+    </div>
+  </div>
+  <div class="mt-4">
+    <button type="button" (click)="onReceiveLink()" class="btn btn-success w-100 rounded-3">
+      Receive link
+    </button>
+  </div>
+  <div>
+    <a routerLink="/signin" class="text-decoration-none fw-medium text-success d-inline-block">
+      <img src="/Back2.webp" alt="Back" class="custom-img">
+    </a>
+  </div>
+</form>

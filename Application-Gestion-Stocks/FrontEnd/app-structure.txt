@@ -1,0 +1,95 @@
+src
+└── app
+    ├── user
+    │   ├── user.component.ts|.html  
+    │   ├── login (cmp. folder)   
+    │   └── registration (cmp. folder)
+    │       
+    ├── dashboard (cmp. folder)
+    |
+    │       
+    └── shared
+        ├── pipes
+        │   └── first-key.pipe.ts  
+        └── services
+            └── auth.service.ts
+
+
+src                   // Répertoire racine contenant le code source de l'application Angular.
+└── app               // Répertoire principal de l'application où toutes les fonctionnalités sont organisées.
+    ├── auth          // Répertoire dédié à l'authentification des utilisateurs.
+    │   ├── auth.module.ts           // Module d'authentification regroupant les composants et services relatifs à la gestion des connexions.
+    │   ├── components               // Sous-répertoire pour les composants liés à l'authentification.
+    │   │   ├── login.component.ts   // Fichier TypeScript définissant la logique du composant de connexion.
+    │   │   ├── login.component.html // Fichier HTML définissant la vue du formulaire de connexion.
+    │   
+    │       
+    │
+    ├── dashboard      // Répertoire principal pour le tableau de bord de l'application.
+    │   ├── dashboard.module.ts      // Module regroupant toutes les fonctionnalités du tableau de bord.
+    │   ├── components               // Sous-répertoire pour les composants principaux du tableau de bord.
+    │   │   ├── dashboard.component.ts   // Composant principal du tableau de bord affichant une vue d'ensemble.
+    │   │   ├── dashboard.component.html // Vue HTML pour le tableau de bord principal.
+    │   │   ├── product-overview.component.ts // Composant affichant un aperçu des produits.
+    │   │   ├── product-overview.component.html // Vue HTML pour l'aperçu des produits.
+    │   │   ├── stock-movements.component.ts   // Composant affichant les mouvements de stock.
+    │   │   ├── stock-movements.component.html // Vue HTML pour les mouvements de stock.
+    │   │   ├── reports.component.ts          // Composant gérant les rapports.
+    │   │   ├── reports.component.html        // Vue HTML pour les rapports.
+    │   │   └── notifications.component.ts    // Composant pour les notifications.
+    │       └── notifications.component.html  // Vue HTML pour les notifications.
+    │   ├── admin                  // Sous-répertoire pour les fonctionnalités réservées aux administrateurs.
+    │   │   ├── user-management.component.ts   // Composant pour la gestion des utilisateurs.
+    │   │   ├── user-management.component.html // Vue HTML pour la gestion des utilisateurs.
+    │   │   ├── create-user.component.ts       // Composant pour la création d'un nouvel utilisateur.
+    │   │   ├── create-user.component.html     // Vue HTML pour la création d'un nouvel utilisateur.
+    │   │   └── stock-settings.component.ts    // Composant pour les paramètres de stock.
+    │       └── stock-settings.component.html  // Vue HTML pour les paramètres de stock.
+    │   ├── product               // Sous-répertoire pour les fonctionnalités liées aux produits.
+    │   │   ├── product-list.component.ts      // Composant listant les produits disponibles.
+    │   │   ├── product-list.component.html    // Vue HTML pour la liste des produits.
+    │   │   ├── product-detail.component.ts    // Composant affichant les détails d'un produit.
+    │   │   ├── product-detail.component.html  // Vue HTML pour les détails d'un produit.
+    │   │   ├── product-edit.component.ts      // Composant pour modifier un produit (réservé aux administrateurs).
+    │   │   ├── product-edit.component.html    // Vue HTML pour la modification d'un produit.
+    │   │   └── product-readonly.component.ts  // Composant pour consulter un produit (accès "magasinier").
+    │       └── product-readonly.component.html // Vue HTML pour la consultation des produits.
+    │   ├── supplier              // Sous-répertoire pour les fonctionnalités liées aux fournisseurs.
+    │   │   ├── supplier-list.component.ts     // Composant listant les fournisseurs.
+    │   │   ├── supplier-list.component.html   // Vue HTML pour la liste des fournisseurs.
+    │   │   ├── supplier-detail.component.ts   // Composant affichant les détails d'un fournisseur.
+    │   │   ├── supplier-detail.component.html // Vue HTML pour les détails d'un fournisseur.
+    │   │   ├── supplier-edit.component.ts     // Composant pour modifier un fournisseur (réservé aux administrateurs).
+    │   │   ├── supplier-edit.component.html   // Vue HTML pour la modification d'un fournisseur.
+    │   │   └── supplier-readonly.component.ts // Composant pour consulter un fournisseur (accès "magasinier").
+    │       └── supplier-readonly.component.html // Vue HTML pour la consultation des fournisseurs.
+    │   ├── stock                // Sous-répertoire pour les fonctionnalités liées au stock.
+    │   │   ├── stock-movement-list.component.ts   // Composant listant les mouvements de stock.
+    │   │   ├── stock-movement-list.component.html // Vue HTML pour la liste des mouvements de stock.
+    │   │   ├── stock-movement-detail.component.ts // Composant affichant les détails d'un mouvement de stock.
+    │   │   ├── stock-movement-detail.component.html // Vue HTML pour les détails d'un mouvement de stock.
+    │   │   └── stock-alerts.component.ts         // Composant gérant les alertes de stock.
+    │       └── stock-alerts.component.html       // Vue HTML pour les alertes de stock.
+    │   └── reports              // Sous-répertoire pour la gestion des rapports.
+    │       ├── report-list.component.ts         // Composant listant les rapports disponibles.
+    │       ├── report-list.component.html       // Vue HTML pour la liste des rapports.
+    │       ├── report-detail.component.ts       // Composant affichant les détails d'un rapport.
+    │       ├── report-detail.component.html     // Vue HTML pour les détails d'un rapport.
+    │       └── export.service.ts                // Service pour exporter les rapports (ex. : PDF, CSV).
+    │
+    ├── shared           // Répertoire contenant des fonctionnalités partagées entre différents modules.
+    │   ├── models       // Sous-répertoire pour les modèles de données.
+    │   │   ├── user.model.ts          // Modèle de données pour les utilisateurs.
+    │   │   ├── product.model.ts       // Modèle de données pour les produits.
+    │   │   ├── supplier.model.ts      // Modèle de données pour les fournisseurs.
+    │   │   └── stock-movement.model.ts // Modèle de données pour les mouvements de stock.
+    │   ├── guards       // Sous-répertoire pour les garde-fous (restrictions d'accès).
+    │   │   ├── admin.guard.ts         // Garde-fou pour restreindre l'accès aux administrateurs.//Bloque l’accès des magasiniers aux interfaces réservées 					aux administrateurs.
+    │   │   └── magasinier.guard.ts    // Garde-fou pour restreindre l'accès aux magasiniers.//Vérifie que l’utilisateur connecté est un magasinier pour 					accéder à ses fonctionnalités
+    │   └── services     // Sous-répertoire pour les services partagés.
+    │       ├── product.service.ts     // Service gérant les opérations sur les produits.
+    │       ├── supplier.service.ts    // Service gérant les opérations sur les fournisseurs.
+    │       ├── stock-movement.service.ts // Service gérant les opérations sur les mouvements de stock.
+    │       ├── notification.service.ts // Service gérant les notifications.
+    │       └── user.service.ts         // Service gérant les opérations sur les utilisateurs.
+            └── auth.service.ts      // Service gérant les opérations liées à l'authentification (ex. : connexion, gestion des tokens).

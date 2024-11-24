@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* form validation */
+.error-feedback {
+  font-size: 0.9rem;
+  color: crimson;
+  margin: 0.3rem !important;
+  margin-top: 0.1rem !important;
+}
+
+.custom-img {
+  width: 20px;
+  height: auto; /* Maintient les proportions */
+}
+
+.fa {
+  font-size: 1.2rem; /* Taille de l'icône */
+  color: #6c757d; /* Couleur de l'œil */
+}
+
+.fa:hover {
+  color: #495057; /* Couleur plus foncée au survol */
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.top-50 {
+  top: 50%;
+}
+
+.translate-middle-y {
+  transform: translateY(-50%);
+}
+
+.fa {
+  font-size: 1.2rem;
+  color: #6c757d;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.fa:hover {
+  color: #495057;
+}

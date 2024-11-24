@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6321C3F-C58E-417D-8DD1-A77989956A13}|Solution Items{E6321C3F-C58E-417D-8DD1-A77989956A13}|C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{E6321C3F-C58E-417D-8DD1-A77989956A13}|Solution Items{E6321C3F-C58E-417D-8DD1-A77989956A13}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\authecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\authecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714025755_nameisaddedinuserentity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\anwar\\source\\repos\\lfaquir\\inventorymanagementsystem\\application-gestion-stocks\\backend\\authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:05:49.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:16:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:43:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T05:11:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:27:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AuthECAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:43:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:13:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:43:20.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240713160809_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:42:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:20:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:59:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:11:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:53:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:05:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthECAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T22:14:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T13:48:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthECAPI.http",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\AuthECAPI.http",
+              "RelativeDocumentMoniker": "AuthECAPI\\AuthECAPI.http",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\AuthECAPI.http",
+              "RelativeToolTip": "AuthECAPI\\AuthECAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-22T13:43:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:43:02.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240714025755_NameIsAddedInUserEntity2.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714025755_NameIsAddedInUserEntity2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:42:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240714024834_NameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ToolTip": "C:\\Users\\anwar\\source\\repos\\lfaquir\\inventoryManagementSystem\\Application-Gestion-Stocks\\BackEnd\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:42:51.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
